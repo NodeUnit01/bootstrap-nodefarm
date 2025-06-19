@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "CENTINELA MASTER SCRIPT ACTIVO"
